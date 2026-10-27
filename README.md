@@ -1,6 +1,8 @@
 # zxyiled
 
-Software Engineering Student
+Software Engineering Student | Backend Developer | Aspiring Data Engineer
+
+Building backend systems and learning how data moves through them.
 
 ---
 
@@ -10,8 +12,15 @@ Software Engineering Student
 - **Topics:** Object-Oriented Programming, Testing, DevOps
 - **Learning:** Data Analysis, Data Science & Design Patterns
 - **Interests:** AI, Linux, System Architecture, Gaming
+- **Goal:** Data Engineering: scalable, efficient and secure data pipelines
 
 ---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**ShopSimulator**](https://github.com/zxyiled/ShopSimulator) | Inventory management app: register products, adjust stock, validate availability and get low-stock alerts, with login via Spring Security. | `Java` `Spring Boot` `Spring Security` |
 
 ## Tech Stack
 

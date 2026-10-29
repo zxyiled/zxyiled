@@ -16,7 +16,7 @@ Building backend systems and learning how data moves through them.
 
 ---
 
-## `tech-stack.yaml`
+## `tech-stack.sh`
 
 | `zxyiled:~$ cat tech-stack.yaml` | |
 | --- | --- |

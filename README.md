@@ -16,12 +16,6 @@ Building backend systems and learning how data moves through them.
 
 ---
 
-## `featured-projects`
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**ShopSimulator**](https://github.com/zxyiled/ShopSimulator) | Inventory management app: register products, adjust stock, validate availability and get low-stock alerts, with login via Spring Security. | `Java` `Spring Boot` `Spring Security` |
-
 ## `tech-stack.yaml`
 
 | `zxyiled:~$ cat tech-stack.yaml` | |

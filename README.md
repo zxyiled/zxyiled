@@ -18,7 +18,7 @@ Building backend systems and learning how data moves through them.
 
 ## `tech-stack.sh`
 
-| `zxyiled:~$ cat tech-stack.yaml` | |
+| `zxyiled:~$ cat tech-stack.sh` | |
 | --- | --- |
 | `├─ ✦ languages_frameworks:`<br><br>![Languages and Frameworks](https://skillicons.dev/icons?i=java,python,spring,fastapi&theme=dark)<br>`Java · Python · Spring Boot · FastAPI` | `├─ ▣ databases:`<br><br>![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark)<br>`PostgreSQL · MySQL · SQLite` |
 | `├─ ⚙ containers_ci_cd:`<br><br>![Containers and CI/CD](https://skillicons.dev/icons?i=docker,bash,githubactions&theme=dark)<br>`Docker · Bash · GitHub Actions` | `├─ ☁ cloud_infrastructure:`<br><br>![Cloud Infrastructure](https://skillicons.dev/icons?i=azure&theme=dark)<br>`Azure` |
